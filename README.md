@@ -12,4 +12,4 @@ Same as the projects I worked. Have you ever spend lots time on training models 
 
 Finally, I want to do some self-study and fun exploration of the data itself. I want to know more, familiar with more tools before build more. Here I am. Don't want to pass life in vain, want to target goals by utilizing tools and data more wisely. 
 
-If you are interested in discussing data or teaming up to do challenges, please email [me]: https://www.linkedin.com/in/qqyang
+If you are interested in discussing data or teaming up to do challenges, please email me: https://www.linkedin.com/in/qqyang

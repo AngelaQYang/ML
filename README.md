@@ -1,5 +1,5 @@
 # Self Study
-This is a repository just for fun-study time. It doesn't associate with any projects I did with PSRC. :) 
+This is a repository just for fun-study time. It doesn't associate with any project I did with my employer. :) 
 
 # Data Sources & Assignments
 All data here are from Kaggle or various public agency websites. 

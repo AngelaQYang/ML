@@ -1,0 +1,26 @@
+
+"""
+L10 assignment: Simple Statistical Fallacies and Anomalies
+Created on Thur Dec 08 15:09:21 2018
+Dataset: U.S. Male Median income
+@author: Angela Qiqian Yang 
+"""
+
+U.S. Male median income increased since 2010. For example, from 2010 to 2012, the median income has increase $700.
+However, the median income trend for'less than high school graduate' subgroup has been decreased. For example 2010 has higher median income than 2012's. The income comparison table is listed below. 
+
+The reason is the simpson paradox. 
+Even though 'less than high school graduate' subgroup median income has been decreased, more people earning higher degrees than high school graduate. So, with more population shift to the higher degree, the median income has risen. 
+
+----------------------------------------Data Table -------------------------------------
+United States                                   2012 Estimate	2010 Estimate   change
+Male:	                                        42,015	        41,354          increase
+Less than high school graduate           	22,728  	22,792		decrease
+High school graduate (includes equivalency)	33,048	        33,173		increase
+Some college or associate's degree	        41,749	        41,530		increase
+Bachelor's degree	                        61,224	        59,922		increase
+Graduate or professional degree	                83,141	        80,111		increase
+
+
+Data Source: U.S. Census Bureau
+https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_5YR_B20004&prodType=table
